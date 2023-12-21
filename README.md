@@ -1,4 +1,4 @@
-# ADHD-Organization
+# Study Smart ADHD
 The goal is to develop a website to assist college students with attention deficit hyperactivity disorder (ADHD) who face challenges in their academic lives.
 #Fetures that The Website Will Contain:
 ADHD significantly impacts college students' cognitive abilities, hindering their assignment completion. After researching various studies and sources, I've identified three common issues affecting their academic success and recommended website features to address these challenges. 
