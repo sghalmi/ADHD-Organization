@@ -9,7 +9,7 @@ ADHD significantly impacts college students' cognitive abilities, hindering thei
 3. Procrastination: Enhance assignment management by adding an assignment checklist to break down larger tasks and include daily to-do lists for scheduling daily goals.
 
 These methods aim to support students with ADHD who are facing academic challenges.\
-**Figma:**\
+**Figma:**
 
 **Research Paper that I Wrote About My Findings:**\
 https://docs.google.com/document/d/1Napd57A5benXT3lxQSHSCdVaVT-Esj4LUpKiDHQJDHY/edit?usp=sharing
