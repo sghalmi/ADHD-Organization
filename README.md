@@ -11,5 +11,5 @@ ADHD significantly impacts college students' cognitive abilities, hindering thei
 These methods aim to support students with ADHD who are facing academic challenges.
 #Figma:
 
-#Research Paper that I Wrote About My Findings:
+Research Paper that I Wrote About My Findings:
 https://docs.google.com/document/d/1Napd57A5benXT3lxQSHSCdVaVT-Esj4LUpKiDHQJDHY/edit?usp=sharing
